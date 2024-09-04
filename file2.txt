@@ -1,0 +1,129 @@
+airplane
+apple
+backpack
+bottle
+banana
+broccoli
+baseball bat
+tv
+skateboard
+carrot
+book
+dining table
+potted plant
+donut
+toothbrush
+traffic light
+snowboard
+microwave
+chair
+scissors
+skis
+handbag
+skateboard
+fork
+train
+couch
+hair drier
+cell phone
+toilet
+pizza
+refrigerator
+elephant
+remote
+umbrella
+surfboard
+vase
+bike
+skateboard
+cake
+sandwich
+bench
+teddy bear
+snowboard
+spoon
+baseball glove
+donut
+airplane
+kite
+fire hydrant
+camera
+teddy bear
+cake
+car
+mouse
+backpack
+carrot
+skateboard
+toaster
+bottle
+refrigerator
+pizza
+umbrella
+potted plant
+laptop
+clock
+suitcase
+handbag
+skateboard
+wine glass
+orange
+scissors
+couch
+snowboard
+microwave
+bowl
+train
+remote
+baseball bat
+hair drier
+vase
+apple
+pizza
+banana
+baseball glove
+vase
+handbag
+skis
+skateboard
+couch
+potted plant
+car
+cake
+scissors
+toothbrush
+cell phone
+donut
+sports ball
+book
+broccoli
+surfboard
+backpack
+kite
+tv
+laptop
+mouse
+giraffe
+skis
+car
+refrigerator
+dog
+hot dog
+laptop
+teddy bear
+umbrella
+cake
+airplane
+donut
+chair
+camera
+potted plant
+laptop
+couch
+person
+refrigerator
+potted plant
+sandwich
+traffic light
+giraffe
+refrigerator
